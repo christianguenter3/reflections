@@ -1,0 +1,6 @@
+When I initialize a repository the hidden .git folder is created.
+
+The staging area contains all files which should be included in the next
+commit. Whereas the working directory contains all files with all current
+changes. Through the concept of the staging area you have full control over 
+which files are added to which commit.
